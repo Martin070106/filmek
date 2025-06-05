@@ -1,0 +1,5 @@
+C:\Users\kameczma\Desktop\Filmek-master\Filmek\obj\Debug\Filmek.csproj.AssemblyReference.cache
+C:\Users\kameczma\Desktop\Filmek-master\Filmek\obj\Debug\MainWindow.g.cs
+C:\Users\kameczma\Desktop\Filmek-master\Filmek\obj\Debug\App.g.cs
+C:\Users\kameczma\Desktop\Filmek-master\Filmek\obj\Debug\Filmek_MarkupCompile.cache
+C:\Users\kameczma\Desktop\Filmek-master\Filmek\obj\Debug\Filmek_MarkupCompile.lref
